@@ -1,0 +1,5 @@
+flask
+pyopenssl
+cryptography
+pyjwt
+Gunicorn
