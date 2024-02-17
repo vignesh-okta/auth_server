@@ -3,3 +3,4 @@ pyopenssl
 cryptography
 pyjwt
 Gunicorn
+requests
